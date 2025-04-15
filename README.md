@@ -38,13 +38,15 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Camel](https://img.shields.io/badge/Apache%20Camel-EA2330?style=for-the-badge&logo=apache&logoColor=white)
-![Infinispan](https://img.shields.io/badge/Infinispan-DB2E2E?style=for-the-badge&logo=data&logoColor=white)
+
 
 ### 🗄️ **Databases & Caching**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Infinispan](https://img.shields.io/badge/Infinispan-DB2E2E?style=for-the-badge&logo=data&logoColor=white)
+
 
 ### 🧪 **DevOps & Automation**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -65,8 +67,12 @@
 ---
 
 ## 🖥️ Operating Systems
-- 🐧 Linux: Ubuntu • Rocky Linux • Red Hat
-- 🪟 Windows
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=linux&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 
 ---
 
