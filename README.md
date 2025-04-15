@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Java-based backend systems & MERN apps**
+- 🔭 Working on enterprise-grade Java backend solutions and dynamic MERN Stack apps — combining experience with innovation.
 - 🌱 Learning: `Microservices`, `DSA`, `Kubernetes`, `AWS`
 - 💬 Ask me about:  
   `Java`, `Spring Boot`, `REST APIs`, `MERN Stack`, `DevOps Tools`
@@ -82,6 +82,15 @@
 > Microservice-based appointment booking and calendar API system
 
 ---
+---
+
+## 📜 Certifications
+
+- 🏅 [One Port Certified DevOps Practitioner](https://oneport.example.com/certificate/your-cert-id)  
+  *(Issued by One Port Institute — covers CI/CD, container orchestration, and automation workflows)*
+
+---
+
 
 ## 🌐 Connect with Me
 
