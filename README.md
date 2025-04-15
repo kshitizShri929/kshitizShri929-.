@@ -86,11 +86,14 @@
 
 ## 📜 Certifications
 
-- 🏅 [One Port Certified DevOps Practitioner](https://oneport.example.com/certificate/your-cert-id)  
-  *(Issued by One Port Institute — covers CI/CD, container orchestration, and automation workflows)*
+- 🧠 [DSA Certificate](https://github.com/kshitizShri929/kshitizShri929/blob/main/DSA%20Cerfificate.pdf)  
+  *Data Structures and Algorithms Mastery*
 
----
+- 🔧 [Node.js Backend Development](https://github.com/kshitizShri929/kshitizShri929/blob/main/Backend.pdf)  
+  *Hands-on projects in Node.js, Express.js, MongoDB, and RESTful APIs*
 
+- 🌐 [Full Stack Web Development](https://github.com/kshitizShri929/kshitizShri929/blob/main/certificatefullstack.pdf)  
+  *Proficiency in MERN Stack, responsive frontend, and backend integration*
 
 ## 🌐 Connect with Me
 
