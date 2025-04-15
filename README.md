@@ -86,14 +86,16 @@
 
 ## 📜 Certifications
 
-- 🧠 [DSA Certificate](https://github.com/kshitizShri929/kshitizShri929/blob/main/DSA%20Cerfificate.pdf)  
-  *Data Structures and Algorithms Mastery*
+- 🌐 [Full Stack Web Development](https://github.com/kshitizShri929/kshitizShri929/blob/main/certificatefullstack.pdf)  
+  *Proficiency in MERN Stack, responsive frontend, and backend integration*
+
 
 - 🔧 [Node.js Backend Development](https://github.com/kshitizShri929/kshitizShri929/blob/main/Backend.pdf)  
   *Hands-on projects in Node.js, Express.js, MongoDB, and RESTful APIs*
 
-- 🌐 [Full Stack Web Development](https://github.com/kshitizShri929/kshitizShri929/blob/main/certificatefullstack.pdf)  
-  *Proficiency in MERN Stack, responsive frontend, and backend integration*
+- 🧠 [DSA Certificate](https://github.com/kshitizShri929/kshitizShri929/blob/main/DSA%20Cerfificate.pdf)  
+  *Data Structures and Algorithms Mastery*
+
 
 ## 🌐 Connect with Me
 
